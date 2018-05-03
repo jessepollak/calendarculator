@@ -1,0 +1,26 @@
+{
+  "name": "calendarculator",
+  "version": "1.0.0",
+  "description": "A tool to calculate hours spent in meetings from a calendar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "calendarculator": "bin/index.js"
+  },
+  "engines": {
+    "node": ">=8.0"
+  },
+  "author": "Jesse Pollak",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "commander": "^2.15.1",
+    "csv-parse": "^2.2.0",
+    "googleapis": "^28.1.0",
+    "mathjs": "^4.1.2",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.22.1"
+  }
+}
