@@ -1,4 +1,4 @@
-# Calendarculator
+# calendarculator
 
 A simple command line tool to calculate how much time people are spending in meetings.
 
