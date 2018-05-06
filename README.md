@@ -1,6 +1,6 @@
 # calendarculator
 
-A simple command line tool to calculate how much time people are spending in meetings.
+A simple command line tool to calculate how much time people are spending in meetings. We use this at [@coinbase](https://twitter.com/coinbase) to track the hours per week engineers spend in meetings, then goal our teams on reducing that time. If you're interested in joining a team that takes a data driven approach to engineering culture, [DM me on Twitter](https://twitter.com/jessepollak).
 
 _Note: this package has only been tested on Node 9_
 
